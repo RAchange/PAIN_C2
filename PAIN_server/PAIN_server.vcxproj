@@ -170,6 +170,13 @@
     <ClInclude Include="..\include\imstb_rectpack.h" />
     <ClInclude Include="..\include\imstb_textedit.h" />
     <ClInclude Include="..\include\imstb_truetype.h" />
+    <ClInclude Include="..\PAIN_client\net_client.h" />
+    <ClInclude Include="net_common.h" />
+    <ClInclude Include="net_connection.h" />
+    <ClInclude Include="net_message.h" />
+    <ClInclude Include="net_server.h" />
+    <ClInclude Include="net_tsqueue.h" />
+    <ClInclude Include="olc_net.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
